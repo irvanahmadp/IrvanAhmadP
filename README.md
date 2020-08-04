@@ -1,4 +1,4 @@
-Programming Language Agnostic. Web Developer
+Programming Language Agnostic & Web Developer
 
 ## Github Performance
 
