@@ -1,6 +1,4 @@
-Web Developer
-
-# Irvan Ahmad Prasetya
+Programming Language Agnostic. Web Developer
 
 ## Github Performance
 
