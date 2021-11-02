@@ -16,5 +16,5 @@
 </table>
 
 ## Social Media
-[<img height="48px" width="48px" src="https://raw.githubusercontent.com/IrvanAhmadP/IrvanAhmadP/master/icons/linkedin.svg">](https://www.linkedin.com/in/irvan-ahmad-prasetya-6306a8115/)
-[<img height="48px" width="48px" src="https://raw.githubusercontent.com/IrvanAhmadP/IrvanAhmadP/master/icons/medium.svg">](https://irvanahmadp.medium.com)
+[<img height="48px" width="48px" alt="Linkedin - Irvan Ahmad Prasetya" src="https://raw.githubusercontent.com/IrvanAhmadP/IrvanAhmadP/master/icons/linkedin.svg">](https://www.linkedin.com/in/irvan-ahmad-prasetya-6306a8115/)
+[<img height="48px" width="48px" alt="Medium - Irvan Ahmad Prasetya" src="https://raw.githubusercontent.com/IrvanAhmadP/IrvanAhmadP/master/icons/medium.svg">](https://irvanahmadp.medium.com)
