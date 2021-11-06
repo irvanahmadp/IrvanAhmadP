@@ -10,8 +10,8 @@
     <th>Most Used Languages</th>
   </tr>
   <tr>
-    <td><img style="height:175px;" src="https://github-readme-stats.vercel.app/api?username=IrvanAhmadP&show_icons=true&hide_title=true&theme=dark"></td>
-    <td><img style="height:175px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IrvanAhmadP&layout=compact&hide_title=true&theme=dark"></td>
+    <td><img style="height:150px;" src="https://github-readme-stats.vercel.app/api?username=IrvanAhmadP&show_icons=true&hide_title=true&theme=dark"></td>
+    <td><img style="height:150px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IrvanAhmadP&layout=compact&hide_title=true&theme=dark"></td>
   </tr>
 </table>
 
