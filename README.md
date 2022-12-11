@@ -2,6 +2,13 @@
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=IrvanAhmadP&repo=IrvanAhmadP&countColorcountColor)
 
+## About Me
+
+```
+Hello I'm Irvan.
+I'm Web Developer.
+```
+
 ## Github Performance
 
 <table style="width: 100%;">
@@ -16,5 +23,15 @@
 </table>
 
 ## Social Media
-[<img height="48px" width="48px" alt="Linkedin - Irvan Ahmad Prasetya" src="https://raw.githubusercontent.com/IrvanAhmadP/IrvanAhmadP/master/icons/linkedin.svg">](https://www.linkedin.com/in/irvan-ahmad-prasetya-6306a8115/)
-[<img height="48px" width="48px" alt="Medium - Irvan Ahmad Prasetya" src="https://raw.githubusercontent.com/IrvanAhmadP/IrvanAhmadP/master/icons/medium.svg">](https://irvanahmadp.medium.com)
+
+<div style="display: flex; gap:25px;">
+  <a href="https://www.linkedin.com/in/irvan-ahmad-prasetya-6306a8115/">
+    <img height="36px" width="36px" style="background:white; border-radius:100%" alt="Linkedin - Irvan Ahmad Prasetya" src="./icons/linkedin.svg">
+  </a>
+  <a href="https://irvanahmadp.medium.com">
+    <img height="36px" width="36px" style="background:white; border-radius:100%" alt="Medium - Irvan Ahmad Prasetya" src="./icons/medium.svg">
+  </a>
+  <a href="https://t.me/IrvanAhmadP">
+    <img height="36px" width="36px" style="background:white; border-radius:100%" alt="Telegram - Irvan Ahmad Prasetya" src="./icons/telegram.svg">
+  </a>
+</div>
