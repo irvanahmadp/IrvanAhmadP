@@ -6,7 +6,7 @@
 
 ```
 Hello I'm Irvan.
-I'm Web Developer.
+I'm a Web Developer.
 ```
 
 ## Github Performance
@@ -25,7 +25,7 @@ I'm Web Developer.
 ## Social Media
 
 <div style="display: flex; gap:25px;">
-  <a href="https://www.linkedin.com/in/irvan-ahmad-prasetya-6306a8115/">
+  <a href="https://www.linkedin.com/in/irvanahmadp/">
     <img height="36px" width="36px" style="background:white; border-radius:100%" alt="Linkedin - Irvan Ahmad Prasetya" src="./icons/linkedin.svg">
   </a>
   <a href="https://irvanahmadp.medium.com">
