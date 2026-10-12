@@ -11,7 +11,8 @@ I'm a Web Developer.
 
 ## Website
 - [Personal Website](https://irvanahmadp.github.io/)
-- [Products](https://raintechapps.com/)
+- [Kindi](https://kindi.id/)
+- [Projects](https://raintechapps.com/)
 
 ## Github Performance
 
@@ -37,5 +38,8 @@ I'm a Web Developer.
   </a>
   <a href="https://t.me/IrvanAhmadP">
     <img height="36px" width="36px" style="background:white; border-radius:100%" alt="Telegram - Irvan Ahmad Prasetya" src="./icons/telegram.svg">
+  </a>
+  <a href="https://kindi.id/author/irvanahmad">
+    Kindi.id
   </a>
 </div>
