@@ -39,7 +39,7 @@ I'm a Web Developer.
   <a href="https://t.me/IrvanAhmadP">
     <img height="36px" width="36px" style="background:white; border-radius:100%" alt="Telegram - Irvan Ahmad Prasetya" src="./icons/telegram.svg">
   </a>
-  <a href="https://kindi.id/author/irvanahmad">
+  <a href="https://kindi.id/authors/irvanahmad">
     Kindi.id
   </a>
 </div>
